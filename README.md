@@ -24,7 +24,7 @@ I'm a passionate Full Stack Web Developer with expertise in the MERN stack. Welc
 - 🌱 I’m continuously learning and exploring new technologies to enhance my skills.
 - 👯 I’m looking to collaborate on interesting projects related to web development, blockchain, and DevOps.
 - 💬 Let's talk about anything related to web development, frontend/backend technologies, blockchain, or DevOps.
-- 📫 Reach me at: [avinashyede110@gmail.com]
+- 📫 Reach me at: [avinashyede110@gmail.com](avinashyede110@gmail.com)
 - 😄 Pronouns: He/Him
 
 ## Tech Stack
