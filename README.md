@@ -34,15 +34,13 @@ I'm a passionate Full Stack Web Developer with expertise in the MERN stack. Welc
 - Database: MongoDB
 - Interests: Frontend, Backend, Blockchain, DevOps
 
+<!--
 ## Projects
 
 1. [Ecommerce App](https://github.com/Avinash-1-10/React-Ecommerce-App) - Immersive online shopping experience built with React, Tailwind CSS, and Redux. Explore a wide array of products, add items to your cart, and seamlessly proceed to checkout. With integrated APIs, users can browse, shop, and complete purchases, creating a fluid and engaging shopping journey.
   <!-- ![Project Name](Project Screenshot or Logo) -->
    
-2. [Ecommerce App](https://github.com/Avinash-1-10/React-Ecommerce-App) - Immersive online shopping experience built with React, Tailwind CSS, and Redux. Explore a wide array of products, add items to your cart, and seamlessly proceed to checkout. With integrated APIs, users can browse, shop, and complete purchases, creating a fluid and engaging shopping journey.
-  <!-- ![Project Name](Project Screenshot or Logo) -->
-   
-3. [Ecommerce App](https://github.com/Avinash-1-10/React-Ecommerce-App) - Immersive online shopping experience built with React, Tailwind CSS, and Redux. Explore a wide array of products, add items to your cart, and seamlessly proceed to checkout. With integrated APIs, users can browse, shop, and complete purchases, creating a fluid and engaging shopping journey.
+
   <!-- ![Project Name](Project Screenshot or Logo) -->
  <!-- 
 ## Blog Posts
