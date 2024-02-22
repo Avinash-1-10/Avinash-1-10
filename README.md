@@ -14,23 +14,24 @@ Here are some ideas to get you started:
 -->
 # Hello, I'm Avinash Yede! 👋
 
-I'm a passionate Full Stack Web Developer with expertise in the MERN stack. Welcome to my GitHub profile, where I showcase my projects and contributions.
+Welcome to my GitHub profile, where I showcase my projects and contributions as a passionate Full Stack Web Developer specializing in the MERN stack.
 
 ## About Me
 
-- 🔭 I’m currently working on building interactive and dynamic web applications.
-- 🌱 I’m continuously learning and exploring new technologies to enhance my skills.
-- 👯 I’m looking to collaborate on interesting projects related to web development, blockchain, and DevOps.
-- 💬 Let's talk about anything related to web development, frontend/backend technologies, blockchain, or DevOps.
-- 📫 Reach me at: [avinashyede110@gmail.com](avinashyede110@gmail.com)
+- 🔭 Currently, I'm immersed in building interactive and dynamic web applications.
+- 🌱 Always eager to learn and explore new technologies to expand my skill set.
+- 👯 Open to collaborating on exciting projects spanning web development, blockchain, and DevOps.
+- 💬 Let's chat about anything related to web development, frontend/backend technologies, blockchain, or DevOps.
+- 📫 You can reach me at: [avinashyede110@gmail.com](mailto:avinashyede110@gmail.com)
 - 😄 Pronouns: He/Him
 
 ## Tech Stack
 
-- Frontend: HTML, CSS, JavaScript, React, Redux
-- Backend: Node.js, Express.js
-- Database: MongoDB
-- Interests: Frontend, Backend, Blockchain, DevOps
+- **Frontend:** HTML, CSS, JavaScript, React, Redux
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Interests:** Frontend, Backend, Blockchain, DevOps
+
 
 <!--
 ## Projects
