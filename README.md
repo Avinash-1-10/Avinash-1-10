@@ -29,6 +29,7 @@ Welcome to my GitHub profile, where I showcase my projects and contributions as 
 
 - **Frontend:** HTML, CSS, JavaScript, React, Redux
 - **Backend:** Node.js, Express.js
+- **Web3:** Solidity, Ethereum
 - **Database:** MongoDB
 - **Interests:** Frontend, Backend, Blockchain, DevOps
 
