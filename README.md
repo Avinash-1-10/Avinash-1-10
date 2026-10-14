@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello, I'm Avinash Yede! 👋
+# Hello, I'm Avinash! 👋
 
 Welcome to my GitHub profile, where I showcase my projects and contributions as a passionate Full Stack Web Developer specializing in the MERN stack.
 
